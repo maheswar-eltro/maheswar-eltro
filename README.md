@@ -13,7 +13,7 @@ Exploring **Embedded Systems**, **Robotics**, and **VLSI** — I like building t
 | [Gesture-Controlled LEDs](https://github.com/maheswar-eltro/gesture-controlled-leds) | Webcam hand-tracking that counts fingers and drives 10 LEDs in real time | Python · OpenCV · MediaPipe · Arduino |
 | [LUMEN — HUB75 Display](https://github.com/maheswar-eltro/LUMEN-HUB75_Display) | ESP32-driven 64×32 RGB matrix with custom 1/8-scan mapping and scrolling animations | ESP32 · HUB75 · C/C++ |
 | [Cyberpunk LCD & LED Matrix](https://github.com/maheswar-eltro/cyberpunk) | Synchronized LCD + 8×8 LED matrix sequence — boot, glitch, and animated visuals | Arduino · I2C LCD · MAX7219 |
-| [Arduino Robot](https://github.com/maheswar-eltro/arduino-robot)  | Custom-built robot from scratch — chassis, motor control, movement logic (WIP) | Arduino · C/C++ |
+| [Arduino Robot](https://github.com/maheswar-eltro/arduino-robot)  | Custom-built 2-wheel robot — motor control, ESP32 integration & wireless remote control | ESP32 · TB6612FNG · C/C++ · Wi-Fi|
  
 ---
  
