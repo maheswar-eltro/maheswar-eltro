@@ -53,7 +53,7 @@ Hansraj College, University of Delhi
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Maheswar Sibi](https://www.linkedin.com/in/maheswar-sibi-a377a2391/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/maheswar-sibi/)
 - **GitHub:** [@maheswar-eltro](https://github.com/maheswar-eltro)
 
 Feel free to explore my repositories, open an issue, or connect with me!
